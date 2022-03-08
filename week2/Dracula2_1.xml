@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE figureSkating SYSTEM "figureSkating.dtd">
 <figureSkating year="2022" location="Beijing">
 	<menSingle number="5">
 		<contestant>
@@ -74,17 +75,51 @@
 			<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1045296.jpg</image>
 		</contestant>
 	</womenSingle>
-	<mixedPair>
+	<mixedPair teamNum="3">
 		<team>
-			<ranking>8</ranking>
-			<teamMember>
-				<name>Anastasia MISHINA</name>
-				<nationality>ROC</nationality>
-				<age>20</age>
-				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1057086.jpg</image>
-			</teamMember>
+			<ranking>1</ranking>
+			<womanPlayer>
+				<name>Wenjing SUI</name>
+				<nationality>China</nationality>
+				<age>26</age>
+				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1058064.jpg</image>
+			</womanPlayer>
+			<manPlayer>
+				<name>Cong HAN</name>
+				<nationality>China</nationality>
+				<age>29</age>
+				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1058065.jpg</image>
+			</manPlayer>
 		</team>
 		<team>
+			<ranking>2</ranking>
+			<womanPlayer>
+				<name>Evgenia TARASOVA</name>
+				<nationality>ROC</nationality>
+				<age>27</age>
+				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1057090.jpg</image>
+			</womanPlayer>
+			<manPlayer>
+				<name>Vladimir MOROZOV</name>
+				<nationality>ROC</nationality>
+				<age>29</age>
+				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1057091.jpg</image>
+			</manPlayer>
+		</team>
+		<team>
+			<ranking>6</ranking>
+			<womanPlayer>
+				<name>Alexa KNIERIM</name>
+				<nationality>USA</nationality>
+				<age>30</age>
+				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1035117.jpg</image>
+			</womanPlayer>
+			<manPlayer>
+				<name>Brandon FRAZIER</name>
+				<nationality>USA</nationality>
+				<age>29</age>
+				<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1035124.jpg</image>
+			</manPlayer>
 		</team>
 	</mixedPair>
 </figureSkating>
