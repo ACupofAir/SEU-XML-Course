@@ -4,9 +4,9 @@
 	<singleSki number="5" sex="female">
 	<!-- <singleSki> -->
 		<contestant>
-			<name>Boyang JIN</name>
-			<nationality>China</nationality>
-			<age>24</age>
+			Contestant's name is <name>Boyang JIN</name>,
+			who comes from<nationality>China</nationality>
+			<age>24</age> years old
 			<ranking>9</ranking>
 			<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1058056.jpg</image>
 		</contestant>
@@ -80,6 +80,7 @@
 	<mixedPair teamNum="3">
 		<team>
 			<ranking>1</ranking>
+			<scores>9 8 9</scores>
 			<womanPlayer>
 				<name>Wenjing SUI</name>
 				<nationality>China</nationality>
@@ -97,6 +98,7 @@
 		</team>
 		<team>
 			<ranking>2</ranking>
+			<scores>9 8 7</scores>
 			<womanPlayer>
 				<name>Evgenia TARASOVA</name>
 				<nationality>ROC</nationality>
@@ -114,6 +116,7 @@
 		</team>
 		<team>
 			<ranking>6</ranking>
+			<scores>7 8 7</scores>
 			<womanPlayer>
 				<name>Alexa KNIERIM</name>
 				<nationality>USA</nationality>
