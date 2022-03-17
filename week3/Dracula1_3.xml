@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- <!DOCTYPE figureSkating SYSTEM "figureSkating.dtd"> -->
-<<<<<<< HEAD
-<?xml-stylesheet type="text/css" href="./css/cupair/figureSkating.css"?>
-=======
-<?xml-stylesheet type="text/css" href="figureSkating2.css"?>
->>>>>>> 0879d78a92cd274af1058c4e453e4b2f2b6969b0
+<?xml-stylesheet type="text/css" href="./css/cupair/figureSkating_v3.css"?>
 <figureSkating xmlns="http://www.w3school.com.cn" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3school.com.cn ./figureSkating.xsd">
 	Beijing 2022 Olympic Winter Games
 	Figure Skating
