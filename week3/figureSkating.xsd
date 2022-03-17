@@ -10,6 +10,10 @@
         </xs:complexType>
     </xs:element>
 
+    <xs:simpleType name="scoreList">
+    <xs:list itemType="xs:integer"/>
+    </xs:simpleType>
+
     <xs:simpleType name="sex">
         <xs:restriction base="xs:string">
             <xs:enumeration value="male" />
@@ -32,7 +36,7 @@
         <xs:attribute name="teamNum" type="xs:integer" />
     </xs:complexType>
 
-    <xs:complexType name="contestant">
+    <xs:complexType name="contestant" mixed="true">
         <xs:all>
             <xs:element name="name" type="xs:string" />
             <xs:element name="nationality" type="xs:string" />
@@ -45,6 +49,7 @@
     <xs:complexType name="team">
         <xs:sequence>
             <xs:element name="ranking" />
+            <xs:element name="scores" type="scoreList"/>
             <xs:element name="womanPlayer" type="contestant" />
             <xs:element name="manPlayer" type="contestant" />
         </xs:sequence>

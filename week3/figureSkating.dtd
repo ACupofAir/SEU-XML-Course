@@ -5,7 +5,7 @@
 <!ELEMENT singleSki (contestant+)>
 <!ATTLIST singleSki number CDATA #REQUIRED>
 
-<!ELEMENT contestant (name, nationality, age, ranking, image)>
+<!ELEMENT contestant (name, nationality, age, ranking, image, score)>
 <!ELEMENT name (#PCDATA)>
 <!ELEMENT nationality (#PCDATA)>
 <!ELEMENT age (#PCDATA)>
@@ -19,6 +19,6 @@
 
 <!ELEMENT mixedPair (team+)>
 <!ATTLIST mixedPair teamNum CDATA #REQUIRED>
-<!ELEMENT team (ranking, player, score)>
-<!ELEMENT player (name, nationality, age, image)>
-<!ELEMENT score (shortProgramScore, freeSkatingScore, totalScore)>
+<!ELEMENT team (ranking, scores, womanPlayer, manPlayer)>
+<!ELEMENT womanPlayer (name, nationality, age, image)>
+<!ELEMENT manPlayer (name, nationality, age, image)>
