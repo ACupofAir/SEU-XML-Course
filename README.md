@@ -18,8 +18,8 @@
 * [x] xsd文件
     * [figureSkating.xsd](./week3/figureSkating.xsd)
 * [ ] css文件
-    * [ ] cupair's
+    * [x] cupair's
         * [figureSkating.css](./week3/css/cupair/figureSkating.css)
         * effect
-            ![](res/2022-03-17-16-48-24.png)
+            ![](res/2022-03-17-19-05-35.png)
     * [ ] badbao's
