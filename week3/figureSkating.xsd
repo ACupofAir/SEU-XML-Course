@@ -11,7 +11,7 @@
     </xs:element>
 
     <xs:simpleType name="scoreList">
-    <xs:list itemType="xs:integer"/>
+        <xs:list itemType="xs:integer"/>
     </xs:simpleType>
 
     <xs:simpleType name="sex">
