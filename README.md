@@ -8,6 +8,18 @@
 
 ## 第二周作业
 * [x] xml文件
-    * [Dracula2_1.xml](./week2/Dracula2_1.xml)
+    * [Dracula1_2.xml](./week2/Dracula1_2.xml)
 * [x] dtd文件
     * [figureSkating.dtd](./week2/figureSkating.dtd)
+
+## 第三周作业
+* [x] xml文件
+    * [Dracula1_3.xml](./week3/Dracula1_3.xml)
+* [x] xsd文件
+    * [figureSkating.xsd](./week3/figureSkating.xsd)
+* [ ] css文件
+    * [ ] cupair's
+        * [figureSkating.css](./week3/css/cupair/figureSkating.css)
+        * effect
+            ![](res/2022-03-17-16-48-24.png)
+    * [ ] badbao's
