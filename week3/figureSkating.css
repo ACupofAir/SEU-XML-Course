@@ -1,0 +1,27 @@
+figureSkating {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 3.5%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border: 2px saddlebrown solid;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+}
+mixedPair,
+singleSki {
+  margin: 20px;
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+contestant,
+team {
+  height: 100px;
+}
+image {
+  display: none;
+}
