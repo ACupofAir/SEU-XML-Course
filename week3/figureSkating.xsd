@@ -46,7 +46,7 @@
         </xs:all>
     </xs:complexType>
 
-    <xs:complexType name="team">
+    <xs:complexType name="team" mixed="true">
         <xs:sequence>
             <xs:element name="ranking" />
             <xs:element name="scores" type="scoreList"/>
