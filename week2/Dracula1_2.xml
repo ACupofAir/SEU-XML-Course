@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE figureSkating SYSTEM "figureSkating.dtd">
 <figureSkating year="2022" location="Beijing">
-	<menSingle number="5">
+	<single number="10">
 		<contestant>
 			<name>Boyang JIN</name>
 			<nationality>China</nationality>
@@ -37,8 +37,6 @@
 			<ranking>10</ranking>
 			<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1036019.jpg</image>
 		</contestant>
-	</menSingle>
-	<womenSingle number="5">
 		<contestant>
 			<name>Anna SHCHERBAKOVA</name>
 			<nationality>Russia</nationality>
@@ -74,7 +72,7 @@
 			<ranking>8</ranking>
 			<image>https://olympics.com/beijing-2022/olympic-games/static/owg2022/img/bios/photos/1045296.jpg</image>
 		</contestant>
-	</womenSingle>
+	</single>
 	<mixedPair teamNum="3">
 		<team>
 			<ranking>1</ranking>
