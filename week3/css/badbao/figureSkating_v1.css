@@ -3,13 +3,13 @@ figureSkating {
   margin-right: 20%;
   padding: 3.5%;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  border: 2px saddlebrown solid;
+  /* border: 2px saddlebrown solid; */
   position: absolute;
   display: flex;
   flex-direction: column;
-  text-align: center;
+  text-align: left;
   font-size: 30px;
-  box-shadow: 0px 0px 20px #888888;
+  /* box-shadow: 0px 0px 20px #888888; */
   background-image: linear-gradient(
     to bottom,
     rgba(113, 175, 229, 0.5),
@@ -23,7 +23,7 @@ singleSki {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: left;
 }
 contestant,
 team {
