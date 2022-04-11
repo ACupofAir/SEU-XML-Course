@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 数据信息 -->
+<?xml-stylesheet href="wwbbzz_1-6-2.xsl" type="text/xsl"?>
+<ChinaMedals>
+	<time></time>
+	<intro isUse="yse">The information of medals which Chinese players got</intro>
+	<intro isUse="no">2022</intro>
+	<bref goldNum="9" silverNum="4" bronzeNum="2">15</bref>
+	<medals>
+		<golds>
+			<gold kind="gold">
+				<DATE date="2022-02-08"/>
+				<NAME isSingle="true">freestyle ski women's large hill</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Gu Ailing</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>19</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>188.25</score>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-19"/>
+				<NAME isSingle="false">double figure skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Sui Wenjing</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>27</age>
+					</player>
+					,
+					<player>
+						<playerName>Han Cong</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>30</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>239.88</score>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-07"/>
+				<NAME isSingle="true">speed skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Ren Ziwei</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>25</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					<time>
+						time spend:
+						<min>1</min>
+						min
+						<sec>26</sec>
+						sec
+					</time>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-05"/>
+				<NAME isSingle="false">Team Speed Skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Qu Chunyu</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>26</age>
+					</player>
+					,
+					<player>
+						<playerName>Fan Kexin</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>29</age>
+					</player>
+					,
+					<player>
+						<playerName>Wu Dajing</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>28</age>
+					</player>
+					,
+					<player>
+						<playerName>Ren Ziwei</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>25</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					<time>
+						time spend:
+						<min>2</min>
+						min
+						<sec>37</sec>
+						sec
+					</time>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-18"/>
+				<NAME isSingle="true">freestyle ski women's halfpipe</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Gu Ailing</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>19</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>95.25</score>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-16"/>
+				<NAME isSingle="true">freestyle skiing men's aerial skills</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Qi Guangpu</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>32</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>129.00</score>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-15"/>
+				<NAME isSingle="true">Snowboard</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Su Yiming</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>18</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>182.50</score>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-14"/>
+				<NAME isSingle="true">Freestyle Skiing women's aerial skills</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Xu Mengtao</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>32</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>108.61</score>
+				</SCORE>
+			</gold>
+			<gold kind="gold">
+				<DATE date="2022-02-12"/>
+				<NAME isSingle="true">Speed Skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Gao Tingyu</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>25</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					<time>
+						time spend:
+						<sec>34</sec>
+						sec
+					</time>
+				</SCORE>
+			</gold>
+		</golds>
+		<silvers>
+			<silver kind="silver">
+				<DATE date="2022-02-07"/>
+				<NAME isSingle="true">Speed Skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Li Wenlong</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>21</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					<time>
+						time spend:
+						<min>1</min>
+						min
+						<sec>29</sec>
+						sec
+					</time>
+				</SCORE>
+			</silver>
+			<silver kind="silver">
+				<DATE date="2022-02-07"/>
+				<NAME isSingle="true">Snowboard</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Su Yiming</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>18</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>88.70</score>
+				</SCORE>
+			</silver>
+			<silver kind="silver">
+				<DATE date="2022-02-15"/>
+				<NAME isSingle="true">Freestyle Skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Gu Ailing</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>19</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>86.23</score>
+				</SCORE>
+			</silver>
+			<silver kind="silver">
+				<DATE date="2022-02-10"/>
+				<NAME>Team Freestyle Skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Xu Mengtao</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>32</age>
+					</player>
+					,
+					<player>
+						<playerName>Jia Zongyang</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>31</age>
+					</player>
+					,
+					<player>
+						<playerName>Qi Guangpu</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>32</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					score is:
+					<score>324.22</score>
+				</SCORE>
+			</silver>
+		</silvers>
+		<bronzes>
+			<bronze kind="bronze">
+				<DATE date="2022-02-11"/>
+				<NAME isSingle="true">Skeleton</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Yan Wengang</playerName>
+						<playerSex>male</playerSex>
+						<country>China</country>
+						<age>25</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					<time>
+						time spend:
+						<min>4</min>
+						min
+						<sec>1</sec>
+						sec
+					</time>
+				</SCORE>
+			</bronze>
+			<bronze kind="bronze">
+				<DATE date="2022-02-13"/>
+				<NAME isSingle="false">Team Speed Skating</NAME>
+				<PLAYER>
+					member(s) of team is(are)
+					<player>
+						<playerName>Qu Chunyu</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>26</age>
+					</player>
+					,
+					<player>
+						<playerName>Fan Kexin</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>29</age>
+					</player>
+					,
+					<player>
+						<playerName>Zhang Yutong</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>19</age>
+					</player>
+					,
+					<player>
+						<playerName>Zhang Yuting</playerName>
+						<playerSex>female</playerSex>
+						<country>China</country>
+						<age>23</age>
+					</player>
+				</PLAYER>
+				<SCORE>
+					<time>
+						time spend:
+						<min>4</min>
+						min
+						<sec>4</sec>
+						sec
+					</time>
+				</SCORE>
+			</bronze>
+		</bronzes>
+	</medals>
+</ChinaMedals>

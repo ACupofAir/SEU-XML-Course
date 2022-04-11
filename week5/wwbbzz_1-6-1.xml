@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="wwbbzz_1-6-1.xsl"?>
+<!-- 小组信息 -->
+<xmlGroup>
+    <groupName>wwbbzz</groupName>
+    <groupBrief>Try to do things the easy way</groupBrief>
+    <groupMember>
+        <member>
+            <name>Wang Bojie</name>
+            <cno>71119102</cno>
+            <info>A student study in Southeast University majoring Software Engineering. Try best to live with ease.</info>
+            <brief>member of the team wwbbzz of xml course</brief>
+        </member>
+        <member>
+            <name>Li Yao</name>
+            <cno>71119203</cno>
+            <info>I'm from Suzhou of Aihui Province. Now I'm studying in Southeast University majoring Software Engineering. I have mastered database principles, operating system, introduction of software engineering, UML and so on.</info>
+            <brief>member of the team wwbbzz of xml course</brief>
+        </member>
+    </groupMember>
+</xmlGroup>
