@@ -4,8 +4,11 @@
 <xsl:template match="/">
 	<html>
 		<body style="margin:0;"> 
+			<!-- bg -->
 			<img src="background.svg" style="z-index:-10; position:fixed; width:100%"/>
+			<!-- logo -->
 			<img src="dracula.svg" style="width:400px;z-index:-10; opacity: 0.7; position:fixed; left:40%; top: 50%"/>
+			<!-- info -->
 			<div style="padding-top: 5%">
 				<div style="text-align:center; font-family:cursive; font-size:35px;">
 					<img src="email.svg" style="width:50px; margin-right:20px"/>
@@ -16,6 +19,7 @@
 					<xsl:value-of select="advertise/github" />
 				</div>
 			</div>
+			<!-- home link -->
 			<p style=" text-align:center">
 				<a href="teamPage.xml">
 					<img src="home.svg" style="width:70px;"/>
